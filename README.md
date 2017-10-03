@@ -7,7 +7,7 @@
 
 ## Installation
 
->    Step 1: Simple unpack to your Magento root directory
+>    Unpack under Magento root directory
 
->    Step 2: Now you are able to  get short descrtion in for template file with 
+>    Now you are able to  get short descrtion in for template file with 
 `<?php echo $_item->getProduct()->getData('short_description');?>`
