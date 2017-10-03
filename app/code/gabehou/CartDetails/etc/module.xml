@@ -1,11 +1,7 @@
 <?xml version="1.0"?>
-<!--
-/**
- * Created by Thomas, Netrix AB. (http://www.netrixab.se)
- */
--->
+
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
-    <module name="BestCustom_CartDetails" setup_version="1.0.0">
+    <module name="Gabehou_CartDetails" setup_version="1.0.0">
         <sequence>
             <module name="Magento_Rule"/>
             <module name="Magento_Catalog"/>
