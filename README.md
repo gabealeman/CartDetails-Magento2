@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> This extension allows you to call short description attribute from your custom theme `Magento_Checkout/templates/cart/item/default.phtml`
+> This extension allows you to add short description attribute to items in cart from your custom themes  `Magento_Checkout/templates/cart/item/default.phtml`
 
 
 ## Installation
